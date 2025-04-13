@@ -72,11 +72,4 @@ This part demonstrates the Command pattern by simulating a smart home remote con
 * **Chain of Responsibility:** For handling tech support requests.
 * **Command:** For controlling smart home devices.
 
-### How to Contribute
 
-Feel free to contribute by:
-
-* Adding more handlers or commands.
-* Implementing bonus features.
-* Improving the documentation.
-* Fixing bugs.
